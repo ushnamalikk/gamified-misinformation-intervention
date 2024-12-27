@@ -1,6 +1,9 @@
 # Gamified Misinformation Intervention
 
-This repository contains materials and data related to a research project on designing and evaluating a gamified intervention to combat misinformation. The intervention uses storytelling, socio-psychological priming, and media literacy techniques to improve users' ability to identify and resist misinformation.
+This repository contains materials and data related to a research project on designing and evaluating a gamified intervention to combat misinformation. 
+It includes:
+- Data to evaluate the impact of the intervention on participants' ability to identify true vs. false information.
+- Stimuli to replicate or extend the research in future studies.
 
 ---
 
@@ -18,12 +21,3 @@ This repository contains materials and data related to a research project on des
   - **Baseline Stage**
   - **After Socio-Psychological Priming**
   - **After Media Literacy Intervention**
-
----
-
-## Purpose of the Repository
-This repository is designed to support the development and evaluation of gamified misinformation interventions. It includes:
-- Data to evaluate the impact of the intervention on participants' ability to identify true vs. false information.
-- Stimuli to replicate or extend the research in future studies.
-
----
